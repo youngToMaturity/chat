@@ -1,0 +1,208 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "enterYear": 0,
+        "enrollment": "admitted",
+        "userName": "string"
+      },
+      "type": "text",
+      "text": "string"
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "userName": "string"
+      },
+      "type": "text",
+      "text": "string"
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "schoolDept": "string",
+        "enrollment": "enrolled",
+        "userName": "string"
+      },
+      "type": "text",
+      "text": "string"
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "schoolDept": "string",
+        "enterYear": 0,
+        "enrollment": "graduated",
+        "userName": "string"
+      },
+      "type": "text",
+      "text": "string"
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "schoolDept": "string",
+        "enterYear": 0,
+        "enrollment": "admitted",
+        "userName": "string"
+      },
+      "type": "images",
+      "images": {
+        "original": "asdf",
+        "thumbnail": "asdf"
+      }
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "schoolDept": "string",
+        "enterYear": 0,
+        "enrollment": "admitted",
+        "userName": "string"
+      },
+      "type": "images",
+      "images": {
+        "original": "asdf",
+        "thumbnail": "asdf"
+      }
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "userName": "string"
+      },
+      "type": "recall",
+      "recaller": "user"
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "userName": "string"
+      },
+      "type": "recall",
+      "recaller": "moderator"
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "userName": "string"
+      },
+      "type": "recall",
+      "recaller": "system",
+      "reason": "reason"
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "type": "system",
+      "event": "kicked",
+      "userName": "reason",
+      "profileId": 0
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "type": "system",
+      "event": "entered",
+      "userName": "reason",
+      "profileId": 0
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "type": "system",
+      "event": "leaved",
+      "userName": "reason",
+      "profileId": 0
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "type": "system",
+      "event": "moderatorUpdated",
+      "userName": "reason",
+      "profileId": 0
+    },
+    {
+      "id": 999,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "enterYear": 666,
+        "enrollment": "admitted",
+        "userName": "string"
+      },
+      "type": "video",
+      "videoUrl": "string",
+      "imageUrl": "string"
+    },
+    {
+      "id": 7777,
+      "createdAt": "string",
+      "type": "system",
+      "event": "removed",
+      "userName": "reason",
+      "profileId": 0
+    }
+  ]
+}
