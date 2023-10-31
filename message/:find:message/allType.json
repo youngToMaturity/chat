@@ -2,20 +2,23 @@
   "status": "success",
   "result": [
     {
-      "id": 0,
-      "createdAt": "string",
-      "sender": {
+      "userMessage": {
         "id": 0,
-        "image": {
-          "original": "string",
-          "thumbnail": "string"
+        "createdAt": "string",
+        "sender": {
+          "id": 0,
+          "image": {
+            "original": "string",
+            "thumbnail": "string"
+          },
+          "enterYear": 0,
+          "enrollment": "admitted",
+          "userName": "string"
         },
-        "enterYear": 0,
-        "enrollment": "admitted",
-        "userName": "string"
+        "type": "text",
+        "text": "string"
       },
-      "type": "text",
-      "text": "string"
+      "unreadCount": 1
     },
     {
       "id": 0,
