@@ -111,8 +111,7 @@
           "original": "asdf",
           "thumbnail": "asdf"
         }
-      ],
-      "unreadCount": 6
+      ]
     },
     {
       "id": 0,
@@ -123,7 +122,7 @@
           "original": "string",
           "thumbnail": "string"
         },
-        "userName": "string"
+        "name": "string"
       },
       "type": "recall",
       "recaller": "user",
@@ -138,7 +137,7 @@
           "original": "string",
           "thumbnail": "string"
         },
-        "userName": "string"
+        "name": "string"
       },
       "type": "recall",
       "recaller": "moderator",
@@ -203,7 +202,7 @@
         },
         "enterYear": 666,
         "enrollment": "admitted",
-        "userName": "string"
+        "name": "string"
       },
       "type": "video",
       "videoUrl": "string",
