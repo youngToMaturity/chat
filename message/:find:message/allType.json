@@ -4,6 +4,165 @@
     {
       "id": 0,
       "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "enterYear": 0,
+        "enrollment": "admitted",
+        "name": "string"
+      },
+      "type": "text",
+      "text": "string",
+      "unreadCount": 1
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "name": "string"
+      },
+      "type": "text",
+      "text": "string",
+      "unreadCount": 2
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "schoolDept": "string",
+        "enrollment": "enrolled",
+        "name": "string"
+      },
+      "type": "text",
+      "text": "string",
+      "unreadCount": 3
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "schoolDept": "string",
+        "enterYear": 0,
+        "enrollment": "graduated",
+        "name": "string"
+      },
+      "type": "text",
+      "text": "string",
+      "unreadCount": 4
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "schoolDept": "string",
+        "enterYear": 0,
+        "enrollment": "admitted",
+        "name": "string"
+      },
+      "type": "images",
+      "images": [
+        {
+          "original": "asdf",
+          "thumbnail": "asdf"
+        }
+      ],
+      "unreadCount": 5
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "schoolDept": "string",
+        "enterYear": 0,
+        "enrollment": "admitted",
+        "name": "string"
+      },
+      "type": "images",
+      "images": [
+        {
+          "original": "asdf",
+          "thumbnail": "asdf"
+        }
+      ],
+      "unreadCount": 6
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "userName": "string"
+      },
+      "type": "recall",
+      "recaller": "user",
+      "unreadCount": 7
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "userName": "string"
+      },
+      "type": "recall",
+      "recaller": "moderator",
+      "unreadCount": 8
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
+      "sender": {
+        "id": 0,
+        "image": {
+          "original": "string",
+          "thumbnail": "string"
+        },
+        "name": "string"
+      },
+      "type": "recall",
+      "recaller": "system",
+      "reason": "reason",
+      "unreadCount": 9
+    },
+    {
+      "id": 0,
+      "createdAt": "string",
       "type": "system",
       "event": "kicked",
       "userName": "reason",
