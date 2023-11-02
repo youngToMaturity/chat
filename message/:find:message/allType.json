@@ -88,10 +88,12 @@
         "name": "string"
       },
       "type": "images",
-      "images": {
-        "original": "asdf",
-        "thumbnail": "asdf"
-      }
+      "images": [
+        {
+          "original": "asdf",
+          "thumbnail": "asdf"
+        }
+      ]
     },
     {
       "id": 0,
@@ -108,10 +110,12 @@
         "name": "string"
       },
       "type": "images",
-      "images": {
-        "original": "asdf",
-        "thumbnail": "asdf"
-      }
+      "images": [
+        {
+          "original": "asdf",
+          "thumbnail": "asdf"
+        }
+      ]
     },
     {
       "id": 0,
