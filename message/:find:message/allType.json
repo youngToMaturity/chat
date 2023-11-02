@@ -13,7 +13,7 @@
           },
           "enterYear": 0,
           "enrollment": "admitted",
-          "userName": "string"
+          "name": "string"
         },
         "type": "text",
         "text": "string"
@@ -21,34 +21,40 @@
       "unreadCount": 1
     },
     {
-      "id": 0,
-      "createdAt": "string",
-      "sender": {
+      "userMessage": {
         "id": 0,
-        "image": {
-          "original": "string",
-          "thumbnail": "string"
+        "createdAt": "string",
+        "sender": {
+          "id": 0,
+          "image": {
+            "original": "string",
+            "thumbnail": "string"
+          },
+          "name": "string"
         },
-        "userName": "string"
+        "type": "text",
+        "text": "string"
       },
-      "type": "text",
-      "text": "string"
+      "unreadCount": 2
     },
     {
-      "id": 0,
-      "createdAt": "string",
-      "sender": {
+      "userMessage": {
         "id": 0,
-        "image": {
-          "original": "string",
-          "thumbnail": "string"
+        "createdAt": "string",
+        "sender": {
+          "id": 0,
+          "image": {
+            "original": "string",
+            "thumbnail": "string"
+          },
+          "schoolDept": "string",
+          "enrollment": "enrolled",
+          "name": "string"
         },
-        "schoolDept": "string",
-        "enrollment": "enrolled",
-        "userName": "string"
+        "type": "text",
+        "text": "string"
       },
-      "type": "text",
-      "text": "string"
+      "unreadCount": 3
     },
     {
       "id": 0,
@@ -62,7 +68,7 @@
         "schoolDept": "string",
         "enterYear": 0,
         "enrollment": "graduated",
-        "userName": "string"
+        "name": "string"
       },
       "type": "text",
       "text": "string"
@@ -79,7 +85,7 @@
         "schoolDept": "string",
         "enterYear": 0,
         "enrollment": "admitted",
-        "userName": "string"
+        "name": "string"
       },
       "type": "images",
       "images": {
@@ -99,7 +105,7 @@
         "schoolDept": "string",
         "enterYear": 0,
         "enrollment": "admitted",
-        "userName": "string"
+        "name": "string"
       },
       "type": "images",
       "images": {
@@ -144,7 +150,7 @@
           "original": "string",
           "thumbnail": "string"
         },
-        "userName": "string"
+        "name": "string"
       },
       "type": "recall",
       "recaller": "system",
