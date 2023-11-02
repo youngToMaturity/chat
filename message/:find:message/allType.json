@@ -57,21 +57,24 @@
       "unreadCount": 3
     },
     {
-      "id": 0,
-      "createdAt": "string",
-      "sender": {
+      "userMessage": {
         "id": 0,
-        "image": {
-          "original": "string",
-          "thumbnail": "string"
+        "createdAt": "string",
+        "sender": {
+          "id": 0,
+          "image": {
+            "original": "string",
+            "thumbnail": "string"
+          },
+          "schoolDept": "string",
+          "enterYear": 0,
+          "enrollment": "graduated",
+          "name": "string"
         },
-        "schoolDept": "string",
-        "enterYear": 0,
-        "enrollment": "graduated",
-        "name": "string"
+        "type": "text",
+        "text": "string"
       },
-      "type": "text",
-      "text": "string"
+      "unreadCount": 4
     },
     {
       "id": 0,
